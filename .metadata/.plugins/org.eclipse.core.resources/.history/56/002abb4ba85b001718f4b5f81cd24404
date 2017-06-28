@@ -1,0 +1,7 @@
+package graphDB;
+
+public interface MySQLAccessInterface {
+	public void operate();
+	private void readDatabase();
+	public void closeConnection();
+}

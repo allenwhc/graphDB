@@ -1,0 +1,47 @@
+package graphDB;
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import com.mysql.jdbc.*;
+import java.util.Properties;
+
+public class MySQLAccess  {
+	private Connection connect = null;
+	private Statement statement = null;
+	
+	private void establishConnection(){
+		String url = "jdbc:mysql://localhost:3306/claim";	//Select database
+		String user = "alan";	
+		String password = "Whc910131";	//Authentication
+		try{
+			connect = DriverManager.getConnection(url,user,password);
+			if(connect != null){System.out.println("Successfully connected to database!");}
+			
+		}catch(SQLException e){
+			System.out.println("An error occured, can't connect to database!");
+			System.out.println("Please check if url, user or password is correct");
+		}	
+	}
+	
+	private void writeMetadata(){
+		
+	}
+	
+	private void readDatabse(){
+		String query = "SELECT * from clean_suptemp_c";
+		statement = connect.createStatement();
+		
+	}
+
+	private void closeConnection() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void operate() {
+		// TODO Auto-generated method stub
+		establishConnection();
+	}
+	
+}

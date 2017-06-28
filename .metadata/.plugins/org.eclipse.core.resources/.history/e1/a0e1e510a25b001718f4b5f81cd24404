@@ -1,0 +1,5 @@
+package graphDB;
+
+public interface MySQlAccess {
+
+}
