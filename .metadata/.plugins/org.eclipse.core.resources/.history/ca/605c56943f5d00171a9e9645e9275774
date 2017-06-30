@@ -1,0 +1,14 @@
+package piccfs.auto.data.infrastructure.TestGraphDatabase;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        MySQLAccess mysql = new MySQLAccess();
+        mysql.operate();
+    }
+}

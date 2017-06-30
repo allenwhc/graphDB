@@ -1,0 +1,111 @@
+package graphDB;
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.ResultSet;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import com.mysql.jdbc.*;
+import java.util.Date;
+import java.util.Properties;
+
+public class MySQLAccess  {
+	static final String jdbc_driver = "com.mysql.jdbc.Driver";
+	private Connection connect = null;
+	private Statement st = null;
+	private ResultSet resultSet = null;
+	private boolean isUpdated = false;
+	
+	//Create a connection to desired database
+	private void establishConnection(){
+		String url = "jdbc:mysql://localhost:3306/claim";	//Select database
+		String user = "alan";	
+		String password = "Whc910131";	//Authentication
+		try{
+			Class.forName(jdbc_driver);	//Register jdbc driver
+			connect = DriverManager.getConnection(url,user,password);	//Establish mysql database connection
+			if(connect != null){System.out.println("Successfully connected to database!");}
+			
+		}catch(SQLException e){
+			System.out.println("An error occured, can't connect to database!");
+			System.out.println("Please check if url, user or password is correct");
+		}catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}	
+	}
+	
+	//CRUD database
+	private void updateDatabase(){
+		try {
+			st = connect.createStatement();
+			String drop_table = "DROP TABLE IF EXISTS example";
+			st.executeUpdate(drop_table);	//Drop existing table
+			String sql = "CREATE TABLE example AS SELECT * FROM clean_suptemp_c LIMIT 0,100";
+			st.executeUpdate(sql);	//Create a new table
+			System.out.println("Update Successfully!");
+			isUpdated = true;
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Update unsuccessfully!");
+			e.printStackTrace();
+		}
+	}
+	
+	//Read database
+	private void readDatabse(){
+		try {
+			st = connect.createStatement();
+			String sql = "SELECT * FROM example";
+			resultSet = st.executeQuery(sql);
+			
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Fail to read from database");
+			e.printStackTrace();
+		}
+	}
+
+	//Close database connection
+	private void closeConnection() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	private void writeResultSet(ResultSet resultSet) throws SQLException{ 
+		while(resultSet.next()){
+			String supplier = resultSet.getString("供应商名称");
+			String brand_name = resultSet.getString("品牌名称");
+			String part_name = resultSet.getString("配件名称");
+			String simp_part_name = resultSet.getString("配件简称");
+			String oe = resultSet.getString("原厂编码oe");
+			String supplier_id_code = resultSet.getString("供应商配件识别编号");
+			String picture = resultSet.getString("图片");
+			String part_category = resultSet.getString("配件分类");
+			String part_detail = resultSet.getString("配件详情");
+			String part_quality = resultSet.getString("配件类型");
+			String part_manufacturer = resultSet.getString("配件生产厂家");
+			String quantity = resultSet.getString("数量");
+			String unit = resultSet.getString("单位");
+			String retail_price = resultSet.getString("零售价");
+			String platform_price = resultSet.getString("平台售价");
+			String tax_fare = resultSet.getString("税费");
+			String service_fee = resultSet.getString("服务费");
+			String part_belong_car_type = resultSet.getString("配件车辆类别");
+			String proper_vehicle_type = resultSet.getString("适用车型");
+			String cover_province = resultSet.getString("供应省份");
+			String warranty = resultSet.getString("质保期");
+			Date import_time = resultSet.getDate("导入时间");
+			Date clean_time = resultSet.getDate("清洗时间");
+			
+		}
+	}
+
+	public void operate(){
+		// TODO Auto-generated method stub
+		establishConnection();
+		if(!isUpdated) updateDatabase();	//Determine whether to run update method
+		
+	}
+	
+}

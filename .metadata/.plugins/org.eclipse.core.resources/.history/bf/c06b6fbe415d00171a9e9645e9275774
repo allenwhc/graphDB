@@ -1,0 +1,18 @@
+package graphDB;
+import org.neo4j.driver.v1.*;
+import static org.neo4j.driver.v1.Values.parameters;
+
+public class Neo4jAccess {
+	private Driver driver = null;
+	
+	private void establishConnection(){
+		String url = "bolt://localhost:7687";
+		String user = "neo4j";
+		String pwd = "912342";
+		
+	}
+	
+	public void operate(){
+		
+	}
+}

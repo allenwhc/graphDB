@@ -1,0 +1,13 @@
+package graphDB;
+import org.neo4j.driver.v1.*;
+import static org.neo4j.driver.v1.Values.parameters;
+
+public class Neo4jAccess {
+	private void establishConnection(){
+		
+	}
+	
+	public void operate(){
+		
+	}
+}

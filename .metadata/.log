@@ -251,3 +251,32 @@ Caused by: org.apache.http.impl.conn.ConnectionShutdownException
 	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
 	... 5 more
+!SESSION 2017-06-29 08:43:10.142 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alanwang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alanwang/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-06-29 08:43:21.788
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2017-06-30 09:45:04.822 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alanwang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alanwang/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-06-30 09:45:18.144
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-06-30 11:01:10.491
+!MESSAGE The POM for org.neo4j:neo4j-jdbc-driver:jar:3.1.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-06-30 11:01:12.250
+!MESSAGE The POM for org.neo4j:neo4j-jdbc-driver:jar:3.1.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-06-30 11:01:12.260
+!MESSAGE The POM for org.neo4j:neo4j-jdbc-driver:jar:3.1.1 is missing, no dependency information available

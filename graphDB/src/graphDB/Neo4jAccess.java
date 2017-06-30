@@ -1,0 +1,42 @@
+package graphDB;
+import org.neo4j.driver.v1.*;
+import static org.neo4j.driver.v1.Values.parameters;
+
+public class Neo4jAccess {
+	private Driver driver = null;
+	private Session session = null;
+	
+	private void establishConnection(){
+		String uri = "bolt://localhost:7687";
+		String user = "neo4j";
+		String pwd = "912342";
+		try{
+			driver = GraphDatabase.driver(uri, AuthTokens.basic(user, pwd));
+			session = driver.session();
+			System.out.println("Successfully connected to Neo4j Database");
+		}catch(Exception e){
+			System.out.println("Fail to connect to Neo4j Database");
+			e.printStackTrace();
+		}
+	}
+	
+	private void closeConnection(){
+		try{
+			if(driver != null){
+				driver.close();
+			}
+			if(session != null){
+				session.close();
+			}
+			System.out.println("Neo4j successfully disconnected");
+		}catch(Exception e){
+			System.out.println("Unable to disconnect Neo4j");
+			e.printStackTrace();
+		}
+	}
+	
+	public void operate(){
+		establishConnection();
+		closeConnection();
+	}
+}

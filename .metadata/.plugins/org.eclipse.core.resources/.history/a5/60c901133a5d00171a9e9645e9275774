@@ -1,0 +1,11 @@
+package graphDB;
+
+public class Neo4jAccess {
+	private void establishConnection(){
+		
+	}
+	
+	public void operate(){
+		
+	}
+}

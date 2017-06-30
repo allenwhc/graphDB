@@ -1,5 +1,0 @@
-package graphDB;
-
-public class MySQLAccess {
-
-}
