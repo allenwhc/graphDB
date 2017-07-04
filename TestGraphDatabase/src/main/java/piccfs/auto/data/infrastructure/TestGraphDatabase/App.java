@@ -1,19 +1,18 @@
 package piccfs.auto.data.infrastructure.TestGraphDatabase;
 
-/**
- * Hello world!
- *
- */
+import java.io.IOException;
+
 public class App 
 {
-    public static void main( String[] args )
+    public static void main( String[] args ) throws IOException
     {
     	//Initialize objects
-        MySQLAccess mysql = new MySQLAccess();
-        Neo4jAccess neo4j = new Neo4jAccess();
+        MySQLAccess mysql = new MySQLAccess();	//MySQL object
+        Neo4jAccess neo4j = new Neo4jAccess();	//Neo4j object
+       // Neo4jDatabase neo4j = new Neo4jDatabase();
         
         //Operate methods
-        mysql.operate();
+       // mysql.operate();
         neo4j.operate();
     }
 }

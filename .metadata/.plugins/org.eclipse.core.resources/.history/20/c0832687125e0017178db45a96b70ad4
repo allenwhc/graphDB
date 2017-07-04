@@ -1,0 +1,15 @@
+package piccfs.auto.data.infrastructure.TestGraphDatabase;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	//Initialize objects
+        MySQLAccess mysql = new MySQLAccess();	//MySQL object
+        Neo4jAccess neo4j = new Neo4jAccess();	//Neo4j object
+        
+        //Operate methods
+        //mysql.operate();
+        neo4j.operate();
+    }
+}

@@ -1,0 +1,109 @@
+package piccfs.auto.data.infrastructure.TestGraphDatabase;
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+public class MySQLAccess {
+	static final String jdbc_driver = "com.mysql.jdbc.Driver";
+	private Connection connection = null;
+	private Statement statement = null;
+	private ResultSet rs = null;
+	
+	/*******Establish connection to MySQL server******/
+	private void establishConnection(){
+		String url = "jdbc:mysql://localhost:3306/claim";
+		String user = "alan";
+		String pwd = "Whc910131";
+		try{
+			Class.forName(jdbc_driver);	
+			connection = DriverManager.getConnection(url,user,pwd);
+			if(connection != null)
+				System.out.println("Successfully connected to database!");
+		}catch(SQLException e){
+			System.out.println("Fail to connect to database");
+			System.out.println("Please check if MySQL server or authentication is functioning properly");
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Fail to find class");
+			e.printStackTrace();
+		}
+	}
+	
+	/*******Update database******/
+	private void update(){
+		try{
+			statement = connection.createStatement();
+			statement.executeUpdate("DROP TABLE IF EXISTS car_type;");	//Drop existing table
+			String query1 = " CREATE TABLE car_type AS "
+					+ "SELECT "
+					+ "a.适用车型 AS 车型, "
+					+ "a.品牌名称 AS 品牌 "
+					+ "FROM clean_suptemp_c a;";
+			String query2 = "ALTER TABLE car_type ADD COLUMN 关系 VARCHAR(20);";
+			String query3 = "UPDATE car_type SET 关系='包含车型';";
+			statement.executeUpdate(query1);
+			statement.executeUpdate(query2);
+			statement.executeUpdate(query3);
+			System.out.println("Transformation is complete!");
+			
+		}catch(SQLException e){
+			System.out.println("Cannot extract data from database!");
+			e.printStackTrace();
+		}
+	}
+	
+	/*******Read data from database******/
+	private void read(){
+		update();
+		try{
+			statement = connection.createStatement();
+			String query = "SELECT * FROM car_type;";
+			rs = statement.executeQuery(query);
+			writeMetaData(rs);
+		}catch(SQLException e){
+			System.out.println("Fail to read from database");
+			e.printStackTrace();
+		}
+	}
+	
+	private void writeMetaData(ResultSet rs) throws SQLException{
+		while(rs.next()){
+			String car_make = rs.getString("品牌");
+			String car_type = rs.getString("车型");
+			String relationship = rs.getString("关系");
+			
+			System.out.print("品牌:" + car_make);
+			System.out.print(", 车型:" + car_type);
+			System.out.print(", 关系:" + relationship);
+			System.out.println();
+		}
+	}
+	
+	/*******Close connection to MySQL server******/
+	private void closeConnection(){
+		try {
+			if(statement != null){
+				statement.close();
+			}
+			
+			if(connection!=null)
+			{	
+				connection.close();
+			}
+			System.out.println("Database successfully disconnected!");
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Fail to close connection!");
+			e.printStackTrace();
+		}
+	}
+	
+	public void operate(){
+		establishConnection();
+		read();
+		closeConnection();
+	}
+}

@@ -1,0 +1,6 @@
+package piccfs.auto.data.infrastructure.TestGraphDatabase;
+
+interface DatabaseAccess {
+	void establishConnection();
+	void 
+}

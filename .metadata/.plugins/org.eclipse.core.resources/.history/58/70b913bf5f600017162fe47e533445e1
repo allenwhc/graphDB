@@ -1,0 +1,113 @@
+package piccfs.auto.data.infrastructure.TestGraphDatabase;
+import java.io.File;
+import java.io.IOException;
+import org.neo4j.driver.v1.*;
+//import org.neo4j.graphdb.Direction;
+//import org.neo4j.graphdb.GraphDatabaseService;
+//import org.neo4j.graphdb.Label;
+//import org.neo4j.graphdb.Node;
+//import org.neo4j.graphdb.Relationship;
+//import org.neo4j.graphdb.Transaction;
+//import org.neo4j.graphdb.RelationshipType;
+//import org.neo4j.graphdb.factory.GraphDatabaseFactory;
+//import org.neo4j.graphdb.factory.GraphDatabaseSettings;
+import org.neo4j.io.fs.FileUtils;
+
+import static org.neo4j.driver.v1.Values.parameters;
+
+public class Neo4jAccess{
+	private Driver driver = null;
+	private Session session = null;
+	
+	private void test(){
+		String uri = "bolt://localhost:7687";
+		String user = "neo4j";
+		String password = "Whc910131";
+		driver = GraphDatabase.driver(uri, AuthTokens.basic(user, password));
+		session = driver.session();
+	}
+	
+	public void operate(){
+		test();
+	}
+}
+
+
+
+/*public class Neo4jAccess {
+	// private Driver driver = null;
+	// private Session session = null;
+	private static final File DB_PATH = new File("Users/alanwhc/Documents/Neo4j/auto");
+	public String greeting;
+	private GraphDatabaseService graphDb;
+	private Node firstNode = null, secondNode = null;
+	private Label label;
+	private Relationship rel;
+	
+	
+	private static enum RelTypes implements RelationshipType{
+		BELONGED
+	}
+	
+	private void createDatabase() throws IOException{
+		FileUtils.deleteRecursively(DB_PATH);
+		//Start snippet
+		graphDb = new GraphDatabaseFactory().newEmbeddedDatabase(DB_PATH);	
+		registerShutdownHook(graphDb);
+		try(Transaction tx = graphDb.beginTx()){
+			firstNode = graphDb.createNode();
+			firstNode.setProperty("car_type","BMW Series 5");
+			secondNode = graphDb.createNode();
+			secondNode.setProperty("car_make", "BMW");
+			rel = firstNode.createRelationshipTo(secondNode, RelTypes.BELONGED);
+			rel.setProperty("message", "Established");
+			
+			System.out.println(firstNode.getProperty("car_type"));
+			System.out.println(rel.getProperty("message"));
+			System.out.println(secondNode.getProperty("car_make"));
+			
+			greeting = firstNode.getProperty("car_type").toString() + 
+					rel.getProperty("message").toString() + 
+					secondNode.getProperty("car_make").toString();
+			tx.success();
+		}
+	}
+	
+	private void removeData(){
+		try(Transaction tx = graphDb.beginTx()){
+			firstNode.getSingleRelationship(RelTypes.BELONGED, Direction.OUTGOING).delete();
+			firstNode.delete();
+			secondNode.delete();
+		}
+	}
+	
+	private void shutdown(){
+		 System.out.println();
+		 System.out.println( "Shutting down database ..." );
+		 graphDb.shutdown();
+		 System.out.println("Database successfully shut down");
+	}
+	
+	private static void registerShutdownHook(final GraphDatabaseService graphDb){
+		Runtime.getRuntime().addShutdownHook(new Thread(){
+			@Override
+			public void run(){
+				graphDb.shutdown();
+			}
+		});
+	}
+	
+	private void loadData(){
+		String query = "USING PERIODIC COMMIT"
+				+ "LOAD CSV WITH HEADERS FROM \"\" AS row";
+	}
+	
+	public void operate() throws IOException{
+	//	establishConnection();
+	//	closeConnection();
+		
+		createDatabase();
+		shutdown();
+	}
+}
+*/

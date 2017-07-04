@@ -1,11 +1,18 @@
 package piccfs.auto.data.infrastructure.TestGraphDatabase;
 import java.sql.Connection;
+import java.sql.Statement;
 import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 
 public class MySQLAccess {
 	static final String jdbc_driver = "com.mysql.jdbc.Driver";
 	private Connection connection = null;
+	private Statement statement = null;
+	private ResultSet rs = null;
 	
 	/*******Establish connection to MySQL server******/
 	private void establishConnection(){
@@ -19,7 +26,7 @@ public class MySQLAccess {
 				System.out.println("Successfully connected to database!");
 		}catch(SQLException e){
 			System.out.println("Fail to connect to database");
-			System.out.println("Please check if MySQL server or authentication functioning properly");
+			System.out.println("Please check if MySQL server or authentication is functioning properly");
 			e.printStackTrace();
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -28,9 +35,72 @@ public class MySQLAccess {
 		}
 	}
 	
+	/*******Update database******/
+	private void update(){
+		try{
+			statement = connection.createStatement();
+			statement.executeUpdate("DROP TABLE IF EXISTS car_type;");	//Drop existing table
+			String query1 = " CREATE TABLE car_type AS "
+					+ "SELECT "
+					+ "a.适用车型 AS 车型, "
+					+ "a.品牌名称 AS 品牌 "
+					+ "FROM clean_suptemp_c a;";
+			// String query2 = "ALTER TABLE car_type ADD COLUMN 关系 VARCHAR(20);";
+			// String query3 = "UPDATE car_type SET 关系='包含车型';";
+			statement.executeUpdate(query1);
+			// statement.executeUpdate(query2);
+			// statement.executeUpdate(query3);
+			System.out.println("Transformation is complete!");
+			
+		}catch(SQLException e){
+			System.out.println("Cannot extract data from database!");
+			e.printStackTrace();
+		}
+	}
+	
+	/*******Read data from database******/
+	private void read(){
+		update();
+		try{
+			statement = connection.createStatement();
+			String query = "SELECT * FROM car_type;";
+			rs = statement.executeQuery(query);
+			writeMetaData(rs);
+		}catch(SQLException e){
+			System.out.println("Fail to read from database");
+			e.printStackTrace();
+		}
+	}
+	
+	private void writeMetaData(ResultSet rs) throws SQLException{
+		
+		try {
+			PrintWriter pw = new PrintWriter(new File("data/car_brand_to_car_model.csv"));
+			StringBuilder sb = new StringBuilder();
+			System.out.println("Exporting csv file, please wait...");
+			int i=0;
+			while(rs.next() && i++<500){
+				sb.append(rs.getString("品牌") + ", ");
+				sb.append(rs.getString("车型") + "\n");
+			//	sb.append(rs.getString("关系") + "\n");
+				pw.write(sb.toString());
+			}
+			pw.close();
+			System.out.println("Exportation done!");
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.println("File not found!");
+			e.printStackTrace();
+		}
+	}
+	
 	/*******Close connection to MySQL server******/
 	private void closeConnection(){
 		try {
+			if(statement != null){
+				statement.close();
+			}
+			
 			if(connection!=null)
 			{	
 				connection.close();
@@ -45,6 +115,7 @@ public class MySQLAccess {
 	
 	public void operate(){
 		establishConnection();
+		read();
 		closeConnection();
 	}
 }

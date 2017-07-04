@@ -1,0 +1,84 @@
+package piccfs.auto.data.infrastructure.TestGraphDatabase;
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+public class MySQLAccess {
+	static final String jdbc_driver = "com.mysql.jdbc.Driver";
+	private Connection connection = null;
+	private Statement statement = null;
+	private ResultSet rs = null;
+	
+	/*******Establish connection to MySQL server******/
+	private void establishConnection(){
+		String url = "jdbc:mysql://localhost:3306/claim";
+		String user = "alan";
+		String pwd = "Whc910131";
+		try{
+			Class.forName(jdbc_driver);	
+			connection = DriverManager.getConnection(url,user,pwd);
+			if(connection != null)
+				System.out.println("Successfully connected to database!");
+		}catch(SQLException e){
+			System.out.println("Fail to connect to database");
+			System.out.println("Please check if MySQL server or authentication is functioning properly");
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Fail to find class");
+			e.printStackTrace();
+		}
+	}
+	
+	/*******Extract data from database******/
+	private void extractData(){
+		try{
+			statement = connection.createStatement();
+			statement.executeQuery("DROP TABLE IF EXISTS car_type");	//Drop existing table
+			String query1 = " CREATE TABLE car_type AS"
+					+ "SELECT "
+					+ "a.适用车型 AS 车型, "
+					+ "a.品牌名称 AS 品牌 "
+					+ "FROM clean_suptemp_c a";
+			String query2 = "ALTER TABLE car_type ADD COLUMN 关系 VARCHAR(20) ''";
+			statement.executeQuery(query1);
+			statement.executeQuery(query2);
+			System.out.println("Transformation is complete!");
+			
+		}catch(SQLException e){
+			System.out.println("Cannot extract data from database!");
+			e.printStackTrace();
+		}
+	}
+	
+	private void writeMetaData(){
+		
+	}
+	
+	/*******Close connection to MySQL server******/
+	private void closeConnection(){
+		try {
+			if(statement != null){
+				statement.close();
+			}
+			
+			if(connection!=null)
+			{	
+				connection.close();
+			}
+			System.out.println("Database successfully disconnected!");
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Fail to close connection!");
+			e.printStackTrace();
+		}
+	}
+	
+	public void operate(){
+		establishConnection();
+		extractData();
+		closeConnection();
+	}
+}

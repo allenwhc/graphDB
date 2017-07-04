@@ -1,5 +1,0 @@
-package piccfs.auto.data.infrastructure.TestGraphDatabase;
-
-public class MySQLAccess {
-
-}

@@ -301,3 +301,1113 @@
 2017-06-30 11:17:48,925 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
 2017-06-30 11:17:48,926 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-30 11:17:48,926 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 11:35:48,723 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 11:35:48,724 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 11:35:48,728 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 11:35:48,728 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 11:39:40,318 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 11:39:40,318 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 11:39:40,320 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 11:39:40,320 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:26:38,111 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:26:38,112 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:26:38,113 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:26:38,114 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:26:40,848 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:26:40,848 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:26:40,849 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:26:40,849 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:27:14,428 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:27:14,428 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:27:14,429 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:27:14,429 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:27:50,652 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:27:50,653 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:27:50,654 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:27:50,654 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:28:48,235 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:28:48,236 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:28:48,236 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:28:48,237 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:29:04,077 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:29:04,077 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:29:04,078 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:29:04,079 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:30:36,412 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:30:36,413 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:30:36,416 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:30:36,416 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:32:10,052 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:32:10,052 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:32:10,055 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:32:10,056 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:32:25,122 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:32:25,122 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:32:25,123 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:32:25,123 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:32:55,483 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:32:55,484 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:32:55,486 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:32:55,486 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:33:48,285 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:33:48,285 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:33:48,286 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:33:48,286 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:36:53,828 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:36:53,830 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:36:53,831 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:36:53,831 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:37:41,292 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:37:41,292 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:37:41,293 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:37:41,293 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:38:03,601 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:38:03,601 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:38:03,603 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:38:03,603 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:40:10,558 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:40:10,558 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:40:10,559 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:40:10,561 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:44:07,326 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:44:07,328 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:44:07,329 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:44:07,329 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:45:33,028 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:45:33,028 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:45:33,029 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:45:33,030 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:46:19,151 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:46:19,152 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:46:19,154 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:46:19,154 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:47:41,255 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:47:41,255 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:47:41,257 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:47:41,258 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:49:40,658 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:49:40,658 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:49:40,660 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:49:40,660 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:49:53,592 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:49:53,592 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:49:53,593 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:49:53,594 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:50:02,494 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:50:02,494 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:50:02,496 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:50:02,496 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:53:03,371 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:53:03,371 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:53:03,373 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:53:03,373 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:54:31,120 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:54:31,120 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:54:31,122 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:54:31,122 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:54:44,963 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:54:44,963 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:54:44,965 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:54:44,965 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:55:32,862 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:55:32,863 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:55:32,864 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:55:32,864 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:55:39,342 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:55:39,342 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:55:39,343 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:55:39,343 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:55:46,077 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:55:46,077 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:55:46,077 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:55:46,078 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:57:10,008 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:57:10,010 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:57:10,011 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:57:10,011 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:57:13,157 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:57:13,157 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:57:13,159 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:57:13,159 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:59:38,716 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:59:38,716 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:59:38,717 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:59:38,717 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 12:59:44,990 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:59:44,990 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 12:59:44,991 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 12:59:44,991 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:01:06,015 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:01:06,016 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:01:06,017 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:01:06,018 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:05:18,690 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:05:18,690 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:05:18,692 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:05:18,692 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:06:07,866 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:06:07,866 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:06:07,867 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:06:07,867 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:06:51,779 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:06:51,779 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:06:51,780 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:06:51,780 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:07:44,024 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:07:44,024 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:07:44,025 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:07:44,025 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:09:01,305 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:01,305 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:09:01,306 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:01,306 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:09:04,976 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:04,976 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:09:04,977 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:04,977 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:09:07,326 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:07,326 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:09:07,327 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:07,327 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:09:18,725 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:18,726 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:09:18,727 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:09:18,727 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:10:41,413 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:10:41,413 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:10:41,414 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:10:41,414 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:11:19,973 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:11:19,973 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:11:19,974 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:11:19,974 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:11:37,447 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:11:37,448 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:11:37,449 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:11:37,449 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:13:17,930 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:13:17,930 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:13:17,931 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:13:17,931 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:14:13,171 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:14:13,171 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:14:13,172 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:14:13,173 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:14:35,887 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:14:35,887 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:14:35,888 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:14:35,888 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:15:22,685 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:15:22,685 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:15:22,686 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:15:22,686 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:16:22,306 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:16:22,306 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:16:22,307 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:16:22,307 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:16:53,231 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:16:53,231 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:16:53,233 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:16:53,233 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:17:03,703 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:17:03,703 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:17:03,704 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:17:03,705 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:17:48,128 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:17:48,128 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:17:48,129 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:17:48,130 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:19:27,080 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:19:27,080 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:19:27,082 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:19:27,082 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:19:47,428 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:19:47,429 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:19:47,429 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:19:47,430 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:21:03,080 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:21:03,081 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:21:03,082 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:21:03,082 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:21:19,378 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:21:19,378 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:21:19,379 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:21:19,379 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:22:25,531 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:25,531 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:22:25,532 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:25,532 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:22:27,463 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:27,464 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:22:27,465 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:27,465 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:22:30,359 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:30,359 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:22:30,360 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:30,361 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:22:36,857 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:36,857 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:22:36,859 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:22:36,859 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:24:25,290 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:24:25,292 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:24:25,293 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:24:25,293 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:24:53,800 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:24:53,802 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:24:53,803 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:24:53,803 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:26:22,735 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:26:22,736 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:26:22,737 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:26:22,738 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:27:44,086 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:27:44,087 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:27:44,090 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:27:44,090 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:27:52,659 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:27:52,659 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:27:52,660 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:27:52,660 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:28:45,542 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:28:45,542 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:28:45,543 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:28:45,543 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:32:05,498 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:32:05,500 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:32:05,502 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:32:05,502 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:39:14,582 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:39:14,583 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:39:14,584 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:39:14,584 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:40:46,518 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:40:46,518 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:40:46,519 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:40:46,519 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:41:02,186 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:41:02,186 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:41:02,187 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:41:02,187 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-06-30 13:43:41,118 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:43:41,119 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-06-30 13:43:41,120 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 13:43:41,120 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 10:27:40,455 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-01 10:29:16,814 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:29:16,816 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 10:29:16,819 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:29:16,819 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 10:49:22,182 [Worker-117] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: piccfs.auto.data.infrastructure:TestGraphDatabase:0.0.1-SNAPSHOT @ /Users/alanwang/Documents/java_projects/TestGraphDatabase/pom.xml.
+2017-07-01 10:49:25,594 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.3.0-alpha02/neo4j-cypher-3.3.0-alpha02.pom
+2017-07-01 10:49:26,288 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.3.0-alpha02/neo4j-cypher-3.3.0-alpha02.pom
+2017-07-01 10:49:26,642 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/3.3.0-alpha02/cypher-parent-3.3.0-alpha02.pom
+2017-07-01 10:49:27,107 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/3.3.0-alpha02/cypher-parent-3.3.0-alpha02.pom
+2017-07-01 10:49:27,536 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/parent/3.3.0-alpha02/parent-3.3.0-alpha02.pom
+2017-07-01 10:49:28,443 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/parent/3.3.0-alpha02/parent-3.3.0-alpha02.pom
+2017-07-01 10:49:28,845 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.3.0-alpha02/neo4j-kernel-3.3.0-alpha02.pom
+2017-07-01 10:49:29,601 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.3.0-alpha02/neo4j-kernel-3.3.0-alpha02.pom
+2017-07-01 10:49:29,998 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.3.0-alpha02/neo4j-graphdb-api-3.3.0-alpha02.pom
+2017-07-01 10:49:30,391 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.3.0-alpha02/neo4j-graphdb-api-3.3.0-alpha02.pom
+2017-07-01 10:49:30,750 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.3.0-alpha02/neo4j-common-3.3.0-alpha02.pom
+2017-07-01 10:49:31,232 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.3.0-alpha02/neo4j-common-3.3.0-alpha02.pom
+2017-07-01 10:49:31,597 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.3.0-alpha02/neo4j-resource-3.3.0-alpha02.pom
+2017-07-01 10:49:32,784 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.3.0-alpha02/neo4j-resource-3.3.0-alpha02.pom
+2017-07-01 10:49:33,139 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.3.0-alpha02/neo4j-collections-3.3.0-alpha02.pom
+2017-07-01 10:49:33,525 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.3.0-alpha02/neo4j-collections-3.3.0-alpha02.pom
+2017-07-01 10:49:33,958 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.3.0-alpha02/neo4j-primitive-collections-3.3.0-alpha02.pom
+2017-07-01 10:49:34,345 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.3.0-alpha02/neo4j-primitive-collections-3.3.0-alpha02.pom
+2017-07-01 10:49:34,696 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.3.0-alpha02/neo4j-unsafe-3.3.0-alpha02.pom
+2017-07-01 10:49:35,036 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.3.0-alpha02/neo4j-unsafe-3.3.0-alpha02.pom
+2017-07-01 10:49:35,388 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.3.0-alpha02/neo4j-io-3.3.0-alpha02.pom
+2017-07-01 10:49:35,760 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.3.0-alpha02/neo4j-io-3.3.0-alpha02.pom
+2017-07-01 10:49:36,124 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.3.0-alpha02/neo4j-csv-3.3.0-alpha02.pom
+2017-07-01 10:49:36,442 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.3.0-alpha02/neo4j-csv-3.3.0-alpha02.pom
+2017-07-01 10:49:36,791 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.3.0-alpha02/neo4j-logging-3.3.0-alpha02.pom
+2017-07-01 10:49:37,182 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.3.0-alpha02/neo4j-logging-3.3.0-alpha02.pom
+2017-07-01 10:49:37,538 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.3.0-alpha02/neo4j-lucene-upgrade-3.3.0-alpha02.pom
+2017-07-01 10:49:37,913 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.3.0-alpha02/neo4j-lucene-upgrade-3.3.0-alpha02.pom
+2017-07-01 10:49:38,299 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.3.0-alpha02/neo4j-configuration-3.3.0-alpha02.pom
+2017-07-01 10:49:38,620 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.3.0-alpha02/neo4j-configuration-3.3.0-alpha02.pom
+2017-07-01 10:49:39,047 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.3.0-alpha02/neo4j-index-3.3.0-alpha02.pom
+2017-07-01 10:49:39,365 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.3.0-alpha02/neo4j-index-3.3.0-alpha02.pom
+2017-07-01 10:49:39,795 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.3.0-alpha02/neo4j-lucene-index-3.3.0-alpha02.pom
+2017-07-01 10:49:40,159 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.3.0-alpha02/neo4j-lucene-index-3.3.0-alpha02.pom
+2017-07-01 10:49:44,924 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-matching/3.1.3/neo4j-graph-matching-3.1.3.pom
+2017-07-01 10:49:45,660 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-matching/3.1.3/neo4j-graph-matching-3.1.3.pom
+2017-07-01 10:49:46,130 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/parent/3.1.3/parent-3.1.3.pom
+2017-07-01 10:49:47,754 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/parent/3.1.3/parent-3.1.3.pom
+2017-07-01 10:49:48,111 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.1.3/neo4j-kernel-3.1.3.pom
+2017-07-01 10:49:48,831 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.1.3/neo4j-kernel-3.1.3.pom
+2017-07-01 10:49:49,193 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.1.3/neo4j-graphdb-api-3.1.3.pom
+2017-07-01 10:49:49,650 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.1.3/neo4j-graphdb-api-3.1.3.pom
+2017-07-01 10:49:50,011 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.1.3/neo4j-common-3.1.3.pom
+2017-07-01 10:49:50,351 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.1.3/neo4j-common-3.1.3.pom
+2017-07-01 10:49:50,874 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.1.3/neo4j-resource-3.1.3.pom
+2017-07-01 10:49:51,188 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.1.3/neo4j-resource-3.1.3.pom
+2017-07-01 10:49:51,551 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.1.3/neo4j-collections-3.1.3.pom
+2017-07-01 10:49:51,894 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.1.3/neo4j-collections-3.1.3.pom
+2017-07-01 10:49:52,255 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.1.3/neo4j-primitive-collections-3.1.3.pom
+2017-07-01 10:49:52,600 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.1.3/neo4j-primitive-collections-3.1.3.pom
+2017-07-01 10:49:52,921 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.1.3/neo4j-unsafe-3.1.3.pom
+2017-07-01 10:49:53,315 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.1.3/neo4j-unsafe-3.1.3.pom
+2017-07-01 10:49:53,669 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.1.3/neo4j-io-3.1.3.pom
+2017-07-01 10:49:54,084 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.1.3/neo4j-io-3.1.3.pom
+2017-07-01 10:49:54,438 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.1.3/neo4j-csv-3.1.3.pom
+2017-07-01 10:49:54,815 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.1.3/neo4j-csv-3.1.3.pom
+2017-07-01 10:49:55,171 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.1.3/neo4j-logging-3.1.3.pom
+2017-07-01 10:49:55,510 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.1.3/neo4j-logging-3.1.3.pom
+2017-07-01 10:49:55,879 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.1.3/neo4j-lucene-upgrade-3.1.3.pom
+2017-07-01 10:49:56,268 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.1.3/neo4j-lucene-upgrade-3.1.3.pom
+2017-07-01 10:49:56,623 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.3.0-alpha02/neo4j-graph-algo-3.3.0-alpha02.pom
+2017-07-01 10:49:56,960 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.3.0-alpha02/neo4j-graph-algo-3.3.0-alpha02.pom
+2017-07-01 10:49:57,424 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.3.0-alpha02/neo4j-codegen-3.3.0-alpha02.pom
+2017-07-01 10:49:57,739 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.3.0-alpha02/neo4j-codegen-3.3.0-alpha02.pom
+2017-07-01 10:49:58,156 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.2/asm-5.2.pom
+2017-07-01 10:49:58,659 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.2/asm-5.2.pom
+2017-07-01 10:49:59,069 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.2/asm-parent-5.2.pom
+2017-07-01 10:49:59,430 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.2/asm-parent-5.2.pom
+2017-07-01 10:49:59,787 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-2.3/2.3.11/neo4j-cypher-compiler-2.3-2.3.11.pom
+2017-07-01 10:50:00,204 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-2.3/2.3.11/neo4j-cypher-compiler-2.3-2.3.11.pom
+2017-07-01 10:50:00,553 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/2.3.11/cypher-parent-2.3.11.pom
+2017-07-01 10:50:01,188 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/2.3.11/cypher-parent-2.3.11.pom
+2017-07-01 10:50:01,539 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/parent/2.3.11/parent-2.3.11.pom
+2017-07-01 10:50:02,578 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/parent/2.3.11/parent-2.3.11.pom
+2017-07-01 10:50:02,979 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-2.3/2.3.11/neo4j-cypher-frontend-2.3-2.3.11.pom
+2017-07-01 10:50:03,293 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-2.3/2.3.11/neo4j-cypher-frontend-2.3-2.3.11.pom
+2017-07-01 10:50:03,644 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.1/3.1.5/neo4j-cypher-compiler-3.1-3.1.5.pom
+2017-07-01 10:50:04,006 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.1/3.1.5/neo4j-cypher-compiler-3.1-3.1.5.pom
+2017-07-01 10:50:04,342 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/3.1.5/cypher-parent-3.1.5.pom
+2017-07-01 10:50:04,789 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/3.1.5/cypher-parent-3.1.5.pom
+2017-07-01 10:50:05,131 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/parent/3.1.5/parent-3.1.5.pom
+2017-07-01 10:50:05,873 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/parent/3.1.5/parent-3.1.5.pom
+2017-07-01 10:50:06,205 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.1/3.1.5/neo4j-cypher-frontend-3.1-3.1.5.pom
+2017-07-01 10:50:06,524 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.1/3.1.5/neo4j-cypher-frontend-3.1-3.1.5.pom
+2017-07-01 10:50:06,847 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.2/3.2.1/neo4j-cypher-compiler-3.2-3.2.1.pom
+2017-07-01 10:50:07,208 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.2/3.2.1/neo4j-cypher-compiler-3.2-3.2.1.pom
+2017-07-01 10:50:07,665 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/3.2.1/cypher-parent-3.2.1.pom
+2017-07-01 10:50:07,982 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/cypher-parent/3.2.1/cypher-parent-3.2.1.pom
+2017-07-01 10:50:08,298 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/parent/3.2.1/parent-3.2.1.pom
+2017-07-01 10:50:08,938 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/parent/3.2.1/parent-3.2.1.pom
+2017-07-01 10:50:09,255 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.2/3.2.1/neo4j-cypher-frontend-3.2-3.2.1.pom
+2017-07-01 10:50:09,582 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.2/3.2.1/neo4j-cypher-frontend-3.2-3.2.1.pom
+2017-07-01 10:50:10,114 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.2/3.2.1/neo4j-cypher-ir-3.2-3.2.1.pom
+2017-07-01 10:50:10,432 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.2/3.2.1/neo4j-cypher-ir-3.2-3.2.1.pom
+2017-07-01 10:50:10,752 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.3/3.3.0-alpha02/neo4j-cypher-compiler-3.3-3.3.0-alpha02.pom
+2017-07-01 10:50:11,082 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.3/3.3.0-alpha02/neo4j-cypher-compiler-3.3-3.3.0-alpha02.pom
+2017-07-01 10:50:11,482 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.3/3.3.0-alpha02/neo4j-cypher-frontend-3.3-3.3.0-alpha02.pom
+2017-07-01 10:50:11,807 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.3/3.3.0-alpha02/neo4j-cypher-frontend-3.3-3.3.0-alpha02.pom
+2017-07-01 10:50:12,160 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.3/3.3.0-alpha02/neo4j-cypher-ir-3.3-3.3.0-alpha02.pom
+2017-07-01 10:50:12,476 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.3/3.3.0-alpha02/neo4j-cypher-ir-3.3-3.3.0-alpha02.pom
+2017-07-01 10:50:12,815 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.3.0-alpha02/neo4j-cypher-3.3.0-alpha02.jar
+2017-07-01 10:50:29,834 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.3.0-alpha02/neo4j-cypher-3.3.0-alpha02.jar
+2017-07-01 10:50:30,536 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.3.0-alpha02/neo4j-kernel-3.3.0-alpha02.jar
+2017-07-01 10:50:34,256 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.3.0-alpha02/neo4j-kernel-3.3.0-alpha02.jar
+2017-07-01 10:50:34,647 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.3.0-alpha02/neo4j-graphdb-api-3.3.0-alpha02.jar
+2017-07-01 10:50:35,117 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.3.0-alpha02/neo4j-graphdb-api-3.3.0-alpha02.jar
+2017-07-01 10:50:35,510 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.3.0-alpha02/neo4j-resource-3.3.0-alpha02.jar
+2017-07-01 10:50:35,827 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.3.0-alpha02/neo4j-resource-3.3.0-alpha02.jar
+2017-07-01 10:50:36,218 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.3.0-alpha02/neo4j-common-3.3.0-alpha02.jar
+2017-07-01 10:50:36,682 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.3.0-alpha02/neo4j-common-3.3.0-alpha02.jar
+2017-07-01 10:50:39,348 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.3.0-alpha02/neo4j-collections-3.3.0-alpha02.jar
+2017-07-01 10:50:41,826 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.3.0-alpha02/neo4j-collections-3.3.0-alpha02.jar
+2017-07-01 10:50:42,143 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.3.0-alpha02/neo4j-primitive-collections-3.3.0-alpha02.jar
+2017-07-01 10:50:42,662 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.3.0-alpha02/neo4j-primitive-collections-3.3.0-alpha02.jar
+2017-07-01 10:50:43,087 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.3.0-alpha02/neo4j-unsafe-3.3.0-alpha02.jar
+2017-07-01 10:50:43,503 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.3.0-alpha02/neo4j-unsafe-3.3.0-alpha02.jar
+2017-07-01 10:50:43,926 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.3.0-alpha02/neo4j-io-3.3.0-alpha02.jar
+2017-07-01 10:50:44,503 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.3.0-alpha02/neo4j-io-3.3.0-alpha02.jar
+2017-07-01 10:50:44,828 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.3.0-alpha02/neo4j-csv-3.3.0-alpha02.jar
+2017-07-01 10:50:45,210 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.3.0-alpha02/neo4j-csv-3.3.0-alpha02.jar
+2017-07-01 10:50:45,614 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.3.0-alpha02/neo4j-logging-3.3.0-alpha02.jar
+2017-07-01 10:50:46,064 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.3.0-alpha02/neo4j-logging-3.3.0-alpha02.jar
+2017-07-01 10:50:47,214 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.3.0-alpha02/neo4j-lucene-upgrade-3.3.0-alpha02.jar
+2017-07-01 10:50:52,494 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.3.0-alpha02/neo4j-lucene-upgrade-3.3.0-alpha02.jar
+2017-07-01 10:50:52,890 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.3.0-alpha02/neo4j-configuration-3.3.0-alpha02.jar
+2017-07-01 10:50:53,301 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.3.0-alpha02/neo4j-configuration-3.3.0-alpha02.jar
+2017-07-01 10:50:53,693 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.3.0-alpha02/neo4j-index-3.3.0-alpha02.jar
+2017-07-01 10:50:54,165 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.3.0-alpha02/neo4j-index-3.3.0-alpha02.jar
+2017-07-01 10:50:54,570 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.3.0-alpha02/neo4j-lucene-index-3.3.0-alpha02.jar
+2017-07-01 10:50:55,348 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.3.0-alpha02/neo4j-lucene-index-3.3.0-alpha02.jar
+2017-07-01 10:50:55,670 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-matching/3.1.3/neo4j-graph-matching-3.1.3.jar
+2017-07-01 10:50:56,019 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-matching/3.1.3/neo4j-graph-matching-3.1.3.jar
+2017-07-01 10:50:56,554 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.3.0-alpha02/neo4j-graph-algo-3.3.0-alpha02.jar
+2017-07-01 10:50:57,004 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.3.0-alpha02/neo4j-graph-algo-3.3.0-alpha02.jar
+2017-07-01 10:50:57,723 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.3.0-alpha02/neo4j-codegen-3.3.0-alpha02.jar
+2017-07-01 10:50:58,058 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.3.0-alpha02/neo4j-codegen-3.3.0-alpha02.jar
+2017-07-01 10:50:58,384 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.2/asm-5.2.jar
+2017-07-01 10:50:58,741 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.2/asm-5.2.jar
+2017-07-01 10:50:59,054 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-2.3/2.3.11/neo4j-cypher-compiler-2.3-2.3.11.jar
+2017-07-01 10:51:09,882 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-2.3/2.3.11/neo4j-cypher-compiler-2.3-2.3.11.jar
+2017-07-01 10:51:10,299 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-2.3/2.3.11/neo4j-cypher-frontend-2.3-2.3.11.jar
+2017-07-01 10:51:21,767 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-2.3/2.3.11/neo4j-cypher-frontend-2.3-2.3.11.jar
+2017-07-01 10:51:22,157 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.1/3.1.5/neo4j-cypher-compiler-3.1-3.1.5.jar
+2017-07-01 10:51:51,632 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.1/3.1.5/neo4j-cypher-compiler-3.1-3.1.5.jar
+2017-07-01 10:51:52,039 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.1/3.1.5/neo4j-cypher-frontend-3.1-3.1.5.jar
+2017-07-01 10:52:03,507 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.1/3.1.5/neo4j-cypher-frontend-3.1-3.1.5.jar
+2017-07-01 10:52:03,910 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.2/3.2.1/neo4j-cypher-compiler-3.2-3.2.1.jar
+2017-07-01 10:52:16,212 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.2/3.2.1/neo4j-cypher-compiler-3.2-3.2.1.jar
+2017-07-01 10:52:17,265 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.2/3.2.1/neo4j-cypher-frontend-3.2-3.2.1.jar
+2017-07-01 10:52:24,761 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.2/3.2.1/neo4j-cypher-frontend-3.2-3.2.1.jar
+2017-07-01 10:52:25,073 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.2/3.2.1/neo4j-cypher-ir-3.2-3.2.1.jar
+2017-07-01 10:52:26,210 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.2/3.2.1/neo4j-cypher-ir-3.2-3.2.1.jar
+2017-07-01 10:52:27,073 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.3/3.3.0-alpha02/neo4j-cypher-compiler-3.3-3.3.0-alpha02.jar
+2017-07-01 10:52:31,308 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-compiler-3.3/3.3.0-alpha02/neo4j-cypher-compiler-3.3-3.3.0-alpha02.jar
+2017-07-01 10:52:32,010 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.3/3.3.0-alpha02/neo4j-cypher-frontend-3.3-3.3.0-alpha02.jar
+2017-07-01 10:52:36,595 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-frontend-3.3/3.3.0-alpha02/neo4j-cypher-frontend-3.3-3.3.0-alpha02.jar
+2017-07-01 10:52:36,994 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.3/3.3.0-alpha02/neo4j-cypher-ir-3.3-3.3.0-alpha02.jar
+2017-07-01 10:52:37,780 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher-ir-3.3/3.3.0-alpha02/neo4j-cypher-ir-3.3-3.3.0-alpha02.jar
+2017-07-01 10:52:38,637 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:52:38,638 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 10:52:38,641 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:52:38,641 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 10:52:39,946 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:52:39,946 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 10:52:39,948 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:52:39,948 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 10:58:27,784 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:58:27,785 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 10:58:27,787 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 10:58:27,787 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:06:50,669 [Worker-117] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: piccfs.auto.data.infrastructure:TestGraphDatabase:0.0.1-SNAPSHOT @ /Users/alanwang/Documents/java_projects/TestGraphDatabase/pom.xml.
+2017-07-01 11:08:31,901 [Worker-129] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: piccfs.auto.data.infrastructure:TestGraphDatabase:0.0.1-SNAPSHOT @ /Users/alanwang/Documents/java_projects/TestGraphDatabase/pom.xml.
+2017-07-01 11:08:34,090 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.pom
+2017-07-01 11:08:34,099 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.pom
+2017-07-01 11:08:34,422 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.pom
+2017-07-01 11:08:34,432 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.pom
+2017-07-01 11:08:34,750 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1.pom
+2017-07-01 11:08:34,763 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1.pom
+2017-07-01 11:08:35,116 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1.pom
+2017-07-01 11:08:35,116 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1.pom
+2017-07-01 11:08:35,451 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.2.1/neo4j-graphdb-api-3.2.1.pom
+2017-07-01 11:08:35,458 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.2.1/neo4j-graphdb-api-3.2.1.pom
+2017-07-01 11:08:36,342 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.2.1/neo4j-graphdb-api-3.2.1.pom
+2017-07-01 11:08:36,353 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.2.1/neo4j-graphdb-api-3.2.1.pom
+2017-07-01 11:08:36,684 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.2.1/neo4j-common-3.2.1.pom
+2017-07-01 11:08:36,691 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.2.1/neo4j-common-3.2.1.pom
+2017-07-01 11:08:37,011 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.2.1/neo4j-common-3.2.1.pom
+2017-07-01 11:08:37,017 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.2.1/neo4j-common-3.2.1.pom
+2017-07-01 11:08:37,349 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.2.1/neo4j-resource-3.2.1.pom
+2017-07-01 11:08:37,350 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.2.1/neo4j-resource-3.2.1.pom
+2017-07-01 11:08:37,677 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.2.1/neo4j-resource-3.2.1.pom
+2017-07-01 11:08:37,677 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.2.1/neo4j-resource-3.2.1.pom
+2017-07-01 11:08:38,018 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.2.1/neo4j-collections-3.2.1.pom
+2017-07-01 11:08:38,019 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.2.1/neo4j-collections-3.2.1.pom
+2017-07-01 11:08:38,350 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.2.1/neo4j-collections-3.2.1.pom
+2017-07-01 11:08:38,351 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.2.1/neo4j-collections-3.2.1.pom
+2017-07-01 11:08:38,685 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.2.1/neo4j-primitive-collections-3.2.1.pom
+2017-07-01 11:08:38,690 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.2.1/neo4j-primitive-collections-3.2.1.pom
+2017-07-01 11:08:39,044 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.2.1/neo4j-primitive-collections-3.2.1.pom
+2017-07-01 11:08:39,045 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.2.1/neo4j-primitive-collections-3.2.1.pom
+2017-07-01 11:08:39,378 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.2.1/neo4j-unsafe-3.2.1.pom
+2017-07-01 11:08:39,378 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.2.1/neo4j-unsafe-3.2.1.pom
+2017-07-01 11:08:39,706 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.2.1/neo4j-unsafe-3.2.1.pom
+2017-07-01 11:08:39,706 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.2.1/neo4j-unsafe-3.2.1.pom
+2017-07-01 11:08:40,056 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.2.1/neo4j-io-3.2.1.pom
+2017-07-01 11:08:40,057 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.2.1/neo4j-io-3.2.1.pom
+2017-07-01 11:08:40,386 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.2.1/neo4j-io-3.2.1.pom
+2017-07-01 11:08:40,393 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.2.1/neo4j-io-3.2.1.pom
+2017-07-01 11:08:40,719 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.2.1/neo4j-csv-3.2.1.pom
+2017-07-01 11:08:40,726 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.2.1/neo4j-csv-3.2.1.pom
+2017-07-01 11:08:41,054 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.2.1/neo4j-csv-3.2.1.pom
+2017-07-01 11:08:41,173 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.2.1/neo4j-csv-3.2.1.pom
+2017-07-01 11:08:41,387 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.2.1/neo4j-logging-3.2.1.pom
+2017-07-01 11:08:41,502 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.2.1/neo4j-logging-3.2.1.pom
+2017-07-01 11:08:41,718 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.2.1/neo4j-logging-3.2.1.pom
+2017-07-01 11:08:41,838 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.2.1/neo4j-logging-3.2.1.pom
+2017-07-01 11:08:42,049 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.2.1/neo4j-lucene-upgrade-3.2.1.pom
+2017-07-01 11:08:42,176 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.2.1/neo4j-lucene-upgrade-3.2.1.pom
+2017-07-01 11:08:42,383 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.2.1/neo4j-lucene-upgrade-3.2.1.pom
+2017-07-01 11:08:42,509 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.2.1/neo4j-lucene-upgrade-3.2.1.pom
+2017-07-01 11:08:42,720 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.2.1/neo4j-configuration-3.2.1.pom
+2017-07-01 11:08:42,838 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.2.1/neo4j-configuration-3.2.1.pom
+2017-07-01 11:08:43,057 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.2.1/neo4j-configuration-3.2.1.pom
+2017-07-01 11:08:43,164 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.2.1/neo4j-configuration-3.2.1.pom
+2017-07-01 11:08:43,482 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.2.1/neo4j-index-3.2.1.pom
+2017-07-01 11:08:43,575 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.2.1/neo4j-index-3.2.1.pom
+2017-07-01 11:08:43,982 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.2.1/neo4j-index-3.2.1.pom
+2017-07-01 11:08:44,418 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.2.1/neo4j-lucene-index-3.2.1.pom
+2017-07-01 11:08:44,566 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.2.1/neo4j-index-3.2.1.pom
+2017-07-01 11:08:44,841 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.2.1/neo4j-lucene-index-3.2.1.pom
+2017-07-01 11:08:45,351 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.2.1/neo4j-graph-algo-3.2.1.pom
+2017-07-01 11:08:45,404 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.2.1/neo4j-lucene-index-3.2.1.pom
+2017-07-01 11:08:45,794 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.2.1/neo4j-graph-algo-3.2.1.pom
+2017-07-01 11:08:45,855 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.2.1/neo4j-lucene-index-3.2.1.pom
+2017-07-01 11:08:46,242 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.pom
+2017-07-01 11:08:46,310 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.pom
+2017-07-01 11:08:46,656 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.pom
+2017-07-01 11:08:46,727 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.pom
+2017-07-01 11:08:47,062 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.2.1/neo4j-cypher-3.2.1.pom
+2017-07-01 11:08:47,132 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.2.1/neo4j-cypher-3.2.1.pom
+2017-07-01 11:08:47,604 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.2.1/neo4j-cypher-3.2.1.pom
+2017-07-01 11:08:47,605 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.2.1/neo4j-cypher-3.2.1.pom
+2017-07-01 11:08:47,938 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.2.1/neo4j-codegen-3.2.1.pom
+2017-07-01 11:08:47,943 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.2.1/neo4j-codegen-3.2.1.pom
+2017-07-01 11:08:48,263 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.2.1/neo4j-codegen-3.2.1.pom
+2017-07-01 11:08:48,269 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.2.1/neo4j-codegen-3.2.1.pom
+2017-07-01 11:08:48,637 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.pom
+2017-07-01 11:08:48,642 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.pom
+2017-07-01 11:08:48,971 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.pom
+2017-07-01 11:08:48,972 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.pom
+2017-07-01 11:08:49,306 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.pom
+2017-07-01 11:08:49,306 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.pom
+2017-07-01 11:08:49,641 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.pom
+2017-07-01 11:08:49,643 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.pom
+2017-07-01 11:08:49,972 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.pom
+2017-07-01 11:08:49,978 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.pom
+2017-07-01 11:08:50,297 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.pom
+2017-07-01 11:08:50,309 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.pom
+2017-07-01 11:08:50,673 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.pom
+2017-07-01 11:08:50,673 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.pom
+2017-07-01 11:08:50,999 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.pom
+2017-07-01 11:08:50,999 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.pom
+2017-07-01 11:08:51,329 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.pom
+2017-07-01 11:08:51,333 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.pom
+2017-07-01 11:08:51,672 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.pom
+2017-07-01 11:08:51,684 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.pom
+2017-07-01 11:08:52,122 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.jar
+2017-07-01 11:08:52,126 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.jar
+2017-07-01 11:08:52,683 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.jar
+2017-07-01 11:08:52,684 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j/3.2.1/neo4j-3.2.1.jar
+2017-07-01 11:08:53,076 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.jar
+2017-07-01 11:08:53,076 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.jar
+2017-07-01 11:08:53,745 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.jar
+2017-07-01 11:08:53,745 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-udc/3.2.1/neo4j-udc-3.2.1.jar
+2017-07-01 11:08:54,139 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.jar
+2017-07-01 11:08:54,142 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.jar
+2017-07-01 11:08:55,862 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.jar
+2017-07-01 11:08:55,876 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jmx/3.2.1/neo4j-jmx-3.2.1.jar
+2017-07-01 11:08:56,251 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.jar
+2017-07-01 11:08:56,263 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.jar
+2017-07-01 11:08:59,323 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.jar
+2017-07-01 11:08:59,441 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-consistency-check/3.2.1/neo4j-consistency-check-3.2.1.jar
+2017-07-01 11:08:59,783 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.jar
+2017-07-01 11:08:59,900 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.jar
+2017-07-01 11:09:00,499 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.jar
+2017-07-01 11:09:00,963 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.jar
+2017-07-01 11:09:01,329 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-command-line/3.2.1/neo4j-command-line-3.2.1.jar
+2017-07-01 11:09:01,534 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.jar
+2017-07-01 11:09:01,995 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.jar
+2017-07-01 11:09:02,561 [Worker-117] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.jar
+2017-07-01 11:09:03,165 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.jar
+2017-07-01 11:09:03,802 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-dbms/3.2.1/neo4j-dbms-3.2.1.jar
+2017-07-01 11:09:04,268 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.jar
+2017-07-01 11:09:04,840 [Worker-129] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-import-tool/3.2.1/neo4j-import-tool-3.2.1.jar
+2017-07-01 11:09:05,067 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:09:05,067 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:09:05,069 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:09:05,069 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:09:06,413 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:09:06,413 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:09:06,415 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:09:06,415 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:19:50,543 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:50,543 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:19:50,545 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:50,545 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:19:58,824 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:58,825 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:19:58,828 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:58,828 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:31:57,953 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:31:57,954 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:31:57,956 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:31:57,956 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:41:22,118 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:41:22,120 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:41:22,121 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:41:22,121 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:41:36,790 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:41:36,790 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:41:36,791 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:41:36,792 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:43:52,818 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:43:52,819 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:43:52,822 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:43:52,822 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:44:01,726 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:44:01,726 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:44:01,729 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:44:01,729 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:45:50,983 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:45:50,983 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:45:50,985 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:45:50,985 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:47:26,015 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:47:26,015 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:47:26,016 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:47:26,016 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:48:24,437 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:24,437 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:48:24,438 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:24,439 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:50:32,983 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:50:32,983 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:50:32,986 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:50:32,986 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:50:56,465 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:50:56,465 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:50:56,467 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:50:56,467 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:51:17,106 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:51:17,107 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:51:17,108 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:51:17,108 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:53:23,569 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:23,569 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:53:23,572 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:23,572 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:53:55,993 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:55,993 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:53:55,995 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:55,995 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:54:09,512 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:54:09,512 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:54:09,513 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:54:09,514 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:55:50,163 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:55:50,164 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:55:50,165 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:55:50,165 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 11:58:26,985 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:26,986 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 11:58:26,987 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:26,987 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:00:36,588 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:00:36,589 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:00:36,590 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:00:36,590 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:01:28,309 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:28,309 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:01:28,310 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:28,310 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:01:33,002 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:33,003 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:01:33,004 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:33,005 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:01:37,373 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:37,373 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:01:37,374 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:37,375 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:03:26,166 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:03:26,167 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:03:26,168 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:03:26,168 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:04:00,985 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:04:00,985 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:04:00,986 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:04:00,987 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:04:59,555 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:04:59,556 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:04:59,557 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:04:59,557 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:05:21,491 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:05:21,491 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:05:21,492 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:05:21,492 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:05:32,931 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:05:32,931 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:05:32,932 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:05:32,932 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:11:50,858 [Worker-142] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.3.0-alpha02/neo4j-kernel-3.3.0-alpha02-sources.jar
+2017-07-01 12:11:58,251 [Worker-142] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.3.0-alpha02/neo4j-kernel-3.3.0-alpha02-sources.jar
+2017-07-01 12:11:58,275 [Worker-142] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.neo4j:neo4j-kernel:3.3.0-alpha02
+2017-07-01 12:11:58,468 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:11:58,468 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:11:58,469 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:11:58,470 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-01 12:12:47,166 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:12:47,166 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-01 12:12:47,167 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:12:47,168 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 10:48:02,111 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-07-03 16:11:45,357 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-03 16:13:07,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:13:07,612 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:13:07,615 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:13:07,616 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:20:03,225 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:20:03,225 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:20:03,231 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:20:03,231 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:20:21,171 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:20:21,171 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:20:21,174 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:20:21,174 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:21:47,938 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:21:47,939 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:21:47,942 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:21:47,942 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:21:55,919 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:21:55,919 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:21:55,921 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:21:55,921 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:23:09,409 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:23:09,411 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:23:09,412 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:23:09,413 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:23:58,786 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:23:58,786 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:23:58,789 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:23:58,790 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:24:39,737 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:24:39,737 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:24:39,740 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:24:39,740 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:24:42,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:24:42,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:24:42,235 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:24:42,235 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:24:54,732 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:24:54,733 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:24:54,734 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:24:54,735 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:31:07,771 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:31:07,771 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:31:07,773 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:31:07,774 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:36:07,760 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:36:07,761 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:36:07,762 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:36:07,763 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:36:14,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:36:14,228 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:36:14,229 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:36:14,230 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:38:14,105 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:38:14,105 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:38:14,107 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:38:14,107 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:38:21,289 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:38:21,289 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:38:21,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:38:21,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:39:54,229 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:39:54,229 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:39:54,233 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:39:54,233 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:40:32,325 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:40:32,326 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:40:32,327 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:40:32,327 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:42:30,108 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:42:30,108 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:42:30,109 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:42:30,110 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:42:58,319 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:42:58,319 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:42:58,321 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:42:58,322 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:46:08,783 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: piccfs.auto.data.infrastructure:TestGraphDatabase:0.0.1-SNAPSHOT @ /Users/alanwang/Documents/java_projects/TestGraphDatabase/pom.xml.
+2017-07-03 16:46:12,128 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.2.1/neo4j-cypher-3.2.1.jar
+2017-07-03 16:46:15,597 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-cypher/3.2.1/neo4j-cypher-3.2.1.jar
+2017-07-03 16:46:15,920 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1.jar
+2017-07-03 16:46:24,607 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1.jar
+2017-07-03 16:46:24,813 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.2.1/neo4j-graphdb-api-3.2.1.jar
+2017-07-03 16:46:25,653 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graphdb-api/3.2.1/neo4j-graphdb-api-3.2.1.jar
+2017-07-03 16:46:25,906 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.2.1/neo4j-resource-3.2.1.jar
+2017-07-03 16:46:26,114 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-resource/3.2.1/neo4j-resource-3.2.1.jar
+2017-07-03 16:46:26,300 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.2.1/neo4j-common-3.2.1.jar
+2017-07-03 16:46:26,706 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-common/3.2.1/neo4j-common-3.2.1.jar
+2017-07-03 16:46:26,915 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.2.1/neo4j-collections-3.2.1.jar
+2017-07-03 16:46:27,305 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-collections/3.2.1/neo4j-collections-3.2.1.jar
+2017-07-03 16:46:27,542 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.2.1/neo4j-primitive-collections-3.2.1.jar
+2017-07-03 16:46:28,228 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/3.2.1/neo4j-primitive-collections-3.2.1.jar
+2017-07-03 16:46:28,464 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.2.1/neo4j-unsafe-3.2.1.jar
+2017-07-03 16:46:28,714 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-unsafe/3.2.1/neo4j-unsafe-3.2.1.jar
+2017-07-03 16:46:28,961 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.2.1/neo4j-io-3.2.1.jar
+2017-07-03 16:46:29,583 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-io/3.2.1/neo4j-io-3.2.1.jar
+2017-07-03 16:46:29,851 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.2.1/neo4j-csv-3.2.1.jar
+2017-07-03 16:46:30,238 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-csv/3.2.1/neo4j-csv-3.2.1.jar
+2017-07-03 16:46:30,509 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.2.1/neo4j-logging-3.2.1.jar
+2017-07-03 16:46:30,872 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-logging/3.2.1/neo4j-logging-3.2.1.jar
+2017-07-03 16:46:31,148 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.2.1/neo4j-lucene-upgrade-3.2.1.jar
+2017-07-03 16:46:41,092 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-upgrade/3.2.1/neo4j-lucene-upgrade-3.2.1.jar
+2017-07-03 16:46:41,278 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.2.1/neo4j-configuration-3.2.1.jar
+2017-07-03 16:46:41,611 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-configuration/3.2.1/neo4j-configuration-3.2.1.jar
+2017-07-03 16:46:41,797 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.2.1/neo4j-index-3.2.1.jar
+2017-07-03 16:46:42,045 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-index/3.2.1/neo4j-index-3.2.1.jar
+2017-07-03 16:46:42,236 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.2.1/neo4j-lucene-index-3.2.1.jar
+2017-07-03 16:46:42,826 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-lucene-index/3.2.1/neo4j-lucene-index-3.2.1.jar
+2017-07-03 16:46:43,076 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.2.1/neo4j-graph-algo-3.2.1.jar
+2017-07-03 16:46:43,398 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-graph-algo/3.2.1/neo4j-graph-algo-3.2.1.jar
+2017-07-03 16:46:43,620 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.2.1/neo4j-codegen-3.2.1.jar
+2017-07-03 16:46:44,005 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-codegen/3.2.1/neo4j-codegen-3.2.1.jar
+2017-07-03 16:46:44,750 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:44,750 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:46:44,754 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:44,755 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:46:46,610 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:46,610 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:46:46,611 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:46,612 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:46:53,598 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: piccfs.auto.data.infrastructure:TestGraphDatabase:0.0.1-SNAPSHOT @ /Users/alanwang/Documents/java_projects/TestGraphDatabase/pom.xml.
+2017-07-03 16:46:54,010 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:54,011 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:46:54,013 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:54,013 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:46:55,373 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:55,374 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:46:55,375 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:46:55,375 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:51:41,310 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:51:41,313 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:51:41,314 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:51:41,314 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:56:31,855 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:56:31,857 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:56:31,859 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:56:31,859 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-03 16:58:48,991 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:58:48,991 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-03 16:58:48,992 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-03 16:58:48,993 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 09:42:32,316 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-04 09:44:03,782 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 09:44:03,783 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 09:44:03,788 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 09:44:03,788 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 09:45:27,600 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 09:45:27,601 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 09:45:27,607 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 09:45:27,607 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:03:06,658 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:06,659 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:03:06,661 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:06,661 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:03:21,916 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1-sources.jar
+2017-07-04 10:03:27,849 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/3.2.1/neo4j-kernel-3.2.1-sources.jar
+2017-07-04 10:03:27,914 [Worker-21] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.neo4j:neo4j-kernel:3.2.1
+2017-07-04 10:03:27,916 [Worker-21] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.neo4j:neo4j-kernel:3.2.1
+2017-07-04 10:03:28,128 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:28,129 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:03:28,130 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:28,131 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:03:34,627 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:34,627 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:03:34,629 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:34,629 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:03:43,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:43,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:03:43,038 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:03:43,038 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:19:10,673 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:19:10,673 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:19:10,674 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:19:10,675 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:19:19,555 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:19:19,555 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:19:19,557 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:19:19,557 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:20:16,434 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:20:16,434 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:20:16,435 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:20:16,435 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:22:21,085 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:22:21,085 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:22:21,089 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:22:21,089 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:23:20,354 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:23:20,354 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:23:20,356 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:23:20,356 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:25:30,254 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:25:30,255 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:25:30,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:25:30,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:26:37,375 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:26:37,375 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:26:37,377 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:26:37,377 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:30:27,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:30:27,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:30:27,860 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:30:27,861 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:30:58,047 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:30:58,047 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:30:58,049 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:30:58,049 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:31:27,270 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:31:27,270 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:31:27,273 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:31:27,273 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:32:29,187 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:32:29,187 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:32:29,189 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:32:29,189 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:34:36,339 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:34:36,339 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:34:36,342 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:34:36,342 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:35:21,245 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:35:21,246 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:35:21,247 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:35:21,248 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:38:03,337 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:38:03,337 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:38:03,339 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:38:03,339 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:42:19,142 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:42:19,144 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:42:19,145 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:42:19,146 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:43:53,502 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:43:53,502 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:43:53,506 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:43:53,507 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:47:19,321 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:47:19,323 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:47:19,324 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:47:19,325 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:52:19,793 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:52:19,795 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:52:19,796 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:52:19,796 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:52:35,414 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:52:35,414 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:52:35,415 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:52:35,416 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:56:16,234 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:56:16,234 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:56:16,235 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:56:16,236 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:56:29,777 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:56:29,777 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:56:29,779 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:56:29,779 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:57:12,394 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:57:12,394 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:57:12,396 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:57:12,397 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:57:16,292 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:57:16,292 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:57:16,294 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:57:16,294 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:57:35,558 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:57:35,559 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:57:35,560 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:57:35,560 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:58:30,896 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:58:30,897 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:58:30,898 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:58:30,898 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:58:34,766 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:58:34,766 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:58:34,768 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:58:34,768 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:59:24,251 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:24,251 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:59:24,253 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:24,253 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:59:26,692 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:26,693 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:59:26,694 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:26,694 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:59:54,515 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:54,515 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:59:54,516 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:54,516 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 10:59:55,561 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:55,561 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 10:59:55,562 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 10:59:55,562 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:20:18,519 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:20:18,521 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:20:18,522 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:20:18,522 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:27:18,459 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:27:18,460 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:27:18,461 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:27:18,461 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:27:27,443 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:27:27,443 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:27:27,445 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:27:27,446 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:27:58,624 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:27:58,625 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:27:58,626 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:27:58,626 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:28:11,577 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:28:11,577 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:28:11,578 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:28:11,579 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:28:34,133 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:28:34,133 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:28:34,134 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:28:34,134 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:30:15,912 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:30:15,913 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:30:15,915 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:30:15,915 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:32:06,305 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:32:06,306 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:32:06,309 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:32:06,309 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:34:00,451 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:34:00,451 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:34:00,453 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:34:00,455 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:41:27,763 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: piccfs.auto.data.infrastructure:TestGraphDatabase:0.0.1-SNAPSHOT @ /Users/alanwang/Documents/java_projects/TestGraphDatabase/pom.xml.
+2017-07-04 14:41:31,894 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc/3.1.0/neo4j-jdbc-3.1.0.pom
+2017-07-04 14:41:32,461 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc/3.1.0/neo4j-jdbc-3.1.0.pom
+2017-07-04 14:41:32,994 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc-parent/3.1.0/neo4j-jdbc-parent-3.1.0.pom
+2017-07-04 14:41:34,000 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc-parent/3.1.0/neo4j-jdbc-parent-3.1.0.pom
+2017-07-04 14:41:34,559 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc/3.1.0/neo4j-jdbc-3.1.0.jar
+2017-07-04 14:41:35,590 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc/3.1.0/neo4j-jdbc-3.1.0.jar
+2017-07-04 14:41:36,069 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:41:36,069 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:41:36,072 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:41:36,073 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:41:37,134 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:41:37,134 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:41:37,135 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:41:37,136 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:44:02,255 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:44:02,255 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:44:02,256 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:44:02,257 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:46:44,023 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:46:44,023 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:46:44,024 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:46:44,025 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:52:13,396 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: piccfs.auto.data.infrastructure:TestGraphDatabase:0.0.1-SNAPSHOT @ /Users/alanwang/Documents/java_projects/TestGraphDatabase/pom.xml.
+2017-07-04 14:52:15,938 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc-driver/3.1.0/neo4j-jdbc-driver-3.1.0.pom
+2017-07-04 14:52:16,281 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc-driver/3.1.0/neo4j-jdbc-driver-3.1.0.pom
+2017-07-04 14:52:17,474 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc-driver/3.1.0/neo4j-jdbc-driver-3.1.0.jar
+2017-07-04 14:52:24,952 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/neo4j/neo4j-jdbc-driver/3.1.0/neo4j-jdbc-driver-3.1.0.jar
+2017-07-04 14:52:25,138 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:52:25,138 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:52:25,139 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:52:25,140 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:52:26,309 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:52:26,309 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:52:26,310 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:52:26,311 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:55:40,344 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:55:40,344 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:55:40,346 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:55:40,346 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:58:33,065 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:58:33,065 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:58:33,066 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:58:33,066 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 14:58:50,500 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:58:50,500 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 14:58:50,503 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 14:58:50,503 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 15:00:15,429 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 15:00:15,429 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 15:00:15,430 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 15:00:15,430 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 15:00:32,890 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 15:00:32,890 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 15:00:32,891 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 15:00:32,892 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 15:15:27,567 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 15:15:27,568 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 15:15:27,570 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 15:15:27,571 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources
+2017-07-04 16:06:03,316 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 16:06:03,316 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/main/resources
+2017-07-04 16:06:03,317 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 16:06:03,317 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alanwang/Documents/java_projects/TestGraphDatabase/src/test/resources

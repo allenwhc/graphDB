@@ -2,9 +2,31 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.Properties"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
-<fullyQualifiedTypeName name="java.sql.DriverManager"/>
-<fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="graphDB.MySQLAccess"/>
 <fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Driver"/>
+<fullyQualifiedTypeName name="org.neo4j.driver.v1.Value"/>
+<fullyQualifiedTypeName name="org.neo4j.driver.v1.Values"/>
+<fullyQualifiedTypeName name="org.neo4j.driver.v1.Session"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.Label"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.Node"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.RelationshipType"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.Relationship"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.factory.GraphDatabaseSettings"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.neo4j.io.fs.FileUtils"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.Transaction"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.Direction"/>
+<fullyQualifiedTypeName name="piccfs.auto.data.infrastructure.TestGraphDatabase.Neo4jDatabase"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.GraphDatabaseService"/>
+<fullyQualifiedTypeName name="org.neo4j.graphdb.factory.GraphDatabaseFactory"/>
+<fullyQualifiedTypeName name="org.neo4j.cypher.internal.ExecutionEngine"/>
+<fullyQualifiedTypeName name="org.neo4j.cypher.internal.ExecutionResult"/>
+<fullyQualifiedTypeName name="org.neo4j.driver.v1.exceptions.AuthenticationException"/>
+<fullyQualifiedTypeName name="org.neo4j.jdbc.Connection"/>
+<fullyQualifiedTypeName name="org.neo4j.jdbc.BaseDriver"/>
+<fullyQualifiedTypeName name="org.neo4j.jdbc.bolt.BoltConnection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
 </qualifiedTypeNameHistroy>

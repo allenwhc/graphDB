@@ -1,0 +1,54 @@
+package piccfs.auto.data.infrastructure.TestGraphDatabase;
+import java.io.File;
+import org.neo4j.driver.v1.*;
+import org.neo4j.cypher.*;
+import org.neo4j.graphdb.GraphDatabaseService;
+import org.neo4j.graphdb.factory.GraphDatabaseFactory;
+import org.neo4j.cypher.javacompat.*;
+
+public class Neo4jDatabase{
+		public void operate(){
+			GraphDatabaseFactory graphDbFactory = new GraphDatabaseFactory();
+			GraphDatabaseService graphDb = graphDbFactory.newEmbeddedDatabase("/Users/alanwhc/Documents/Neo4j/auto/");
+		}
+}
+
+/*public class Neo4jDatabase {
+	private Driver driver = null;
+	private Session session = null;
+	
+	private void establishConnection(){
+		String uri = "bolt://localhost:7687";
+		String user = "neo4j";
+		String pwd = "912342";
+		try{
+			driver = GraphDatabase.driver(uri, AuthTokens.basic(user, pwd));
+			session = driver.session();
+			System.out.println("Successfully connect to Neo4j database!");
+			
+		}catch(Exception e){
+			System.out.println("Cannot connect to database!");
+			e.printStackTrace();
+		}
+	}
+	
+	private void closeConnection(){
+		try{
+			if(session != null){
+				session.close();
+			}
+			if(driver != null){
+				driver.close();
+			}
+			System.out.println("Successfully disconnect to Neo4j database!");
+		}catch(Exception e){
+			System.out.println("Cannot close connection!");
+			e.printStackTrace();
+		}
+	}
+	
+	public void operate(){
+		establishConnection();
+		closeConnection();
+	}
+}*/

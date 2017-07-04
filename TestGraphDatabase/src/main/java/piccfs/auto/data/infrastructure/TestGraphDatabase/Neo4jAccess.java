@@ -1,44 +1,176 @@
 package piccfs.auto.data.infrastructure.TestGraphDatabase;
+import java.io.File;
+import java.io.IOException;
+import java.sql.DriverManager;
+
 import org.neo4j.driver.v1.*;
+import org.neo4j.driver.v1.exceptions.AuthenticationException;
+//import org.neo4j.graphdb.Direction;
+//import org.neo4j.graphdb.GraphDatabaseService;
+//import org.neo4j.graphdb.Label;
+//import org.neo4j.graphdb.Node;
+//import org.neo4j.graphdb.Relationship;
+//import org.neo4j.graphdb.Transaction;
+//import org.neo4j.graphdb.RelationshipType;
+//import org.neo4j.graphdb.factory.GraphDatabaseFactory;
+//import org.neo4j.graphdb.factory.GraphDatabaseSettings;
+import org.neo4j.io.fs.FileUtils;
+import org.neo4j.jdbc.Connection;
 import static org.neo4j.driver.v1.Values.parameters;
 
-public class Neo4jAccess {
+public class Neo4jAccess{
 	private Driver driver = null;
 	private Session session = null;
+	private StatementResult sr = null;
 	
-	/*******Establish connection to Neo4j server******/
-	private void establishConnection(){
-		String uri = "bolt://localhost:7687";
+	private void connect(){
+		String uri = "jdbc:neo4j:bolt://localhost";
 		String user = "neo4j";
-		String pwd = "912342";
-		try{
-			driver = GraphDatabase.driver(uri, AuthTokens.basic(user, pwd));
-			session = driver.session();
-			System.out.println("Successfully connected to Neo4j Database");
+		String password = "912342";
+		try(Connection con = DriverManager.getConnection(uri, user, password)){
+			
+			
 		}catch(Exception e){
-			System.out.println("Fail to connect to Neo4j Database");
 			e.printStackTrace();
 		}
 	}
 	
-	/*******Establish connection to Neo4j server******/
-	private void closeConnection(){
+	private void writeDatabase(){
 		try{
-			if(driver != null){
-				driver.close();
-			}
+			session = driver.session();
+			
+			session.run("CREATE (a:Person{name:{name}, title:{title}})",parameters("name","Arthur","title","King"));
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+
+	}
+	
+	private void readDatabase(){
+		try{
+			sr = session.run( "MATCH (a:Person) WHERE a.name = {name} " +
+						"RETURN a.name AS name, a.title AS title",parameters( "name", "Arthur" ) );
+			writeResult(sr);
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+	
+	private void writeResult(StatementResult result){
+		while(result.hasNext()){
+			Record record = result.next();
+			System.out.println(record.get("title").asString() + " " + record.get("name").asString());
+		}
+	}
+	
+	private void close(){
+		try{
 			if(session != null){
 				session.close();
 			}
-			System.out.println("Neo4j successfully disconnected");
+			if(driver != null){
+				driver.close();
+			}
+			System.out.print("Database successfully disconnected");
 		}catch(Exception e){
-			System.out.println("Unable to disconnect Neo4j");
-			e.printStackTrace();
+			
 		}
 	}
 	
-	public void operate(){
-		establishConnection();
-		closeConnection();
+	private void remove(){
+		String removeAllNodes = "MATCH (n:Person)"
+				+ "DETACH DELETE n";
+		session.run(removeAllNodes);
+	}
+	
+	public void operate() throws IOException{
+		connect();
+		writeDatabase();
+		readDatabase();
+		System.out.println("If test? (Y/N)");
+		char status = (char) System.in.read();
+		if(status == 'Y')
+			remove();
+		close();
 	}
 }
+
+
+
+/*public class Neo4jAccess {
+	// private Driver driver = null;
+	// private Session session = null;
+	private static final File DB_PATH = new File("Users/alanwhc/Documents/Neo4j/auto");
+	public String greeting;
+	private GraphDatabaseService graphDb;
+	private Node firstNode = null, secondNode = null;
+	private Label label;
+	private Relationship rel;
+	
+	
+	private static enum RelTypes implements RelationshipType{
+		BELONGED
+	}
+	
+	private void createDatabase() throws IOException{
+		FileUtils.deleteRecursively(DB_PATH);
+		//Start snippet
+		graphDb = new GraphDatabaseFactory().newEmbeddedDatabase(DB_PATH);	
+		registerShutdownHook(graphDb);
+		try(Transaction tx = graphDb.beginTx()){
+			firstNode = graphDb.createNode();
+			firstNode.setProperty("car_type","BMW Series 5");
+			secondNode = graphDb.createNode();
+			secondNode.setProperty("car_make", "BMW");
+			rel = firstNode.createRelationshipTo(secondNode, RelTypes.BELONGED);
+			rel.setProperty("message", "Established");
+			
+			System.out.println(firstNode.getProperty("car_type"));
+			System.out.println(rel.getProperty("message"));
+			System.out.println(secondNode.getProperty("car_make"));
+			
+			greeting = firstNode.getProperty("car_type").toString() + 
+					rel.getProperty("message").toString() + 
+					secondNode.getProperty("car_make").toString();
+			tx.success();
+		}
+	}
+	
+	private void removeData(){
+		try(Transaction tx = graphDb.beginTx()){
+			firstNode.getSingleRelationship(RelTypes.BELONGED, Direction.OUTGOING).delete();
+			firstNode.delete();
+			secondNode.delete();
+		}
+	}
+	
+	private void shutdown(){
+		 System.out.println();
+		 System.out.println( "Shutting down database ..." );
+		 graphDb.shutdown();
+		 System.out.println("Database successfully shut down");
+	}
+	
+	private static void registerShutdownHook(final GraphDatabaseService graphDb){
+		Runtime.getRuntime().addShutdownHook(new Thread(){
+			@Override
+			public void run(){
+				graphDb.shutdown();
+			}
+		});
+	}
+	
+	private void loadData(){
+		String query = "USING PERIODIC COMMIT"
+				+ "LOAD CSV WITH HEADERS FROM \"\" AS row";
+	}
+	
+	public void operate() throws IOException{
+	//	establishConnection();
+	//	closeConnection();
+		
+		createDatabase();
+		shutdown();
+	}
+}
+*/
